@@ -42,7 +42,7 @@ color: #ED6C30;
     position: relative;
 }
   .section_img{
-    margin-right: 100px;
+    
     height: 100px;
     object-fit: cover;
     width: 100px;
@@ -80,12 +80,7 @@ padding: 12px 40px 12px 40px;
    
 }
 
-.section_1{
-    width: 1200px;
-    height: 400px;
-    top: 876;
-    left: 120px;
-}
+
 .photo{
     margin-top: 100px;
     margin-left: 120px;
@@ -134,7 +129,59 @@ margin-top: 40px;
     margin-top: 40px;
   }
 
+  .footer{
+    width: 1440px;
+height: 196px;
+top: 1376px;
+padding: 32px 80px 32px 80px;
+gap: 0px;
+opacity: 0px;
+background-color: #372D23;
+
+  }
+
+  .Food{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #ffffff;
+display: flex;
+  }
+
+  .Menu{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #FCC21B;
+display: flex;
+  }
+
+  .div{
 
 
+  }
+.insta{
+    width: 24px;
+height: 24px;
+padding: 2px;
+gap: 0px;
+opacity: 0px;
+left: 100px;
+align-items: right;
 
+}
 
+.Connect{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+
+color: #ffffff;
+display: flex;
+margin-bottom: 18px;
+}
